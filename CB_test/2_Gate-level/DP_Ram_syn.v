@@ -1,0 +1,1 @@
+裡面沒東西: 這是RTL用Design Compiler 合成出來的
